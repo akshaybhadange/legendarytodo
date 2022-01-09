@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Getting Started with Legendary Todo App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This Project is for learing reactjs
+
+
+
+
+
+
+
+
+
+
+
 
 ## Available Scripts
 
